@@ -1,4 +1,4 @@
-//Print number 1 to 100 without using any loop. 
+//1.Print number 1 to 100 without using any loop. 
 // this uses recursion and callback to print from 1 to 100 
 function noLoop(num,call){
 if(num==1){
