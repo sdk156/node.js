@@ -1,7 +1,5 @@
 //6. Demonstrate the use of chance, your system should always return a object where values for its keys are random.
 //Object should have at least these keys name, age, email, subjects, cgpa.
-// 6. Demonstrate the use of chance, your system should always return a object where values for its keys are random.
-// Object should have at least these keys name, age, email, subjects, cgpa.
 
 
 
