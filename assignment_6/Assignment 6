@@ -1,0 +1,30 @@
+1.Create a web server using express framework. Free to use any design pattern.(The project directory should have seperate folder for controller, routes, services, library)
+Create an api which return a JWT token for the input received in req.body
+Create an api which validates the token and return true or false
+Create an api which takes number as input and return the first 10 multiple of tha number.
+Create an api which takes a sentence as input and return an object which has alphabet/character (case insensitive) as key and occurrence as value.
+Example: let's play
+Output: {
+l: 2,
+e: 1,
+t: 1,
+s: 1,
+p: 1,
+a: 1,
+y: 1,
+!: 1,
+‘: 1
+};
+
+Create an api, which check the number is armstrong or not. It should be get api where number should be passed as query parameter.
+
+
+Note: All api should have validation implemented either using AJV or JOI.
+	The last two api should have token validation apart from its main logic.Depending on token validation, main logic should be called.(hint: route based middleware design pattern)
+
+
+2. Write down the integration and unit test cases for all the api.Integration testing should be done for controller and unit testing for services, so that code coverage is 100%.
+Use mocha, chai/ sinon, nyc for the task. 
+	
+      
+
