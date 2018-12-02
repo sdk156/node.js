@@ -1,0 +1,19 @@
+{
+  "name": "psql",
+  "version": "1.0.0",
+  "description": "postgreSQL with sequelize ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dk",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.6.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.41.2"
+  },
+  "devDependencies": {
+    "joi": "^14.3.0"
+  }
+}

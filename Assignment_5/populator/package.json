@@ -1,0 +1,14 @@
+{
+  "name": "database-populator",
+  "version": "1.0.0",
+  "description": "this package fills the database with random data for testing purposes as defined",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dk",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.16"
+  }
+}
