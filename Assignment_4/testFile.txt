@@ -1,0 +1,2 @@
+Hi!!
+this file is used to test the async function using bluebird
